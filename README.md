@@ -1,10 +1,10 @@
 # Bike-Rental
-Problem Statement
+# Problem Statement
 
 Task 1:- Prepare a complete data analysis report on the given data.
 Task 2:- Prediction of daily bike rental count based on the environmental and
 seasonal settings.
-Dataset Description and link:
+## Dataset Description and link:
 Bike sharing systems are a new version of traditional bike rentals where the whole
 process from membership, rental and return back has been automated. Through these
 systems, users are easily able to rent a bike from a particular position and return back
@@ -19,7 +19,7 @@ turns the bike sharing system into a virtual sensor network that can be used for
 mobility in the city. Hence, it is expected that most of the important events in the city
 could be detected via monitoring these data.
 
-Attribute Information:
+## Attribute Information:
 Both the files hour.csv and day.csv have the following fields, except hr which is not
 available in day.csv
 - instant: record index
@@ -48,12 +48,10 @@ t_min)/(t_max-t_min), t_min=-16, t_max=+50 (only in hourly scale)
 - registered: count of registered users
 - cnt: count of total rental bikes including both casual and registered
 
-Model Comparison Report:
-
+## Model Comparison Report:
 Create a report stating the performance of multiple models on this data and
 suggest the best model for production.
 
-Report on Challenges faced:
-
+## Report on Challenges faced:
 Create a report which should include challenges you faced on data and
 what technique was used with proper reasoning.
