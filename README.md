@@ -48,7 +48,7 @@ t_min)/(t_max-t_min), t_min=-16, t_max=+50 (only in hourly scale)
 - registered: count of registered users
 - cnt: count of total rental bikes including both casual and registered
 
-- Model Comparison Report
+Model Comparison Report
 Create a report stating the performance of multiple models on this data and
 suggest the best model for production.
 
